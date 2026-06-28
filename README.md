@@ -1,2 +1,3 @@
-# SparkzLoader-Extraction
-Extracted files from SparkzLoader.exe (bypass scripts, menu, quest servers)
+# SparkzLoader Extracted Files
+
+Contains bypass.py, bypass.js (obfuscated), ac_bridge.js, quest servers scripts etc.
