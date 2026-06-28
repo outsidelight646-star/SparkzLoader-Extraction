@@ -1,0 +1,3 @@
+=== FULL STRINGS DUMP FROM SparkzLoader.exe ===
+
+[Python bypass.py]

@@ -1,3 +1,1 @@
-# SparkzLoader Extraction
-
-Extracted from SparkzLoader.exe
+All extracted code from SparkzLoader.exe - Python + JS + TS

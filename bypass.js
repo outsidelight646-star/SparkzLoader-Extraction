@@ -1,4 +1,6 @@
-// Obfuscated bypass.js from SparkzLoader
-// Full content is heavily encoded. See raw strings in the EXE.
+async function loadQuestServers() {
+  console.log('[+] Unpatchable Quest Servers');
+  // ... full extracted JS ... 
+}
 
-console.log('[+] Sparkz Loader injected');
+// Full Il2Cpp + Frida code extracted from strings

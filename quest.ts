@@ -1,1 +1,1 @@
-// quest servers script
+// Quest servers TypeScript
