@@ -1,1 +1,1 @@
-All extracted code from SparkzLoader.exe - Python + JS + TS
+Complete extraction - no placeholders
